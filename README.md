@@ -17,7 +17,6 @@ YoloV5
 Run Locally
 Clone the project
 
-  git clone https://github.com/AntroSafin/Fire_Detection_YoloV5
 Go to the project directory
 
   cd Fire_Detection_YoloV5
