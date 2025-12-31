@@ -29,7 +29,7 @@ Start the server
 Train your custom weights
 To train your custom weights go to YoloV5 repository.
 
-🚀YoloV5
+🚀[YoloV5](https://github.com/ultralytics/yolov5)
 
 👀Demo
 
