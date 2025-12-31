@@ -31,10 +31,10 @@ To train your custom weights go to YoloV5 repository.
 
 🚀[YoloV5](https://github.com/ultralytics/yolov5)
 
-👀[Demo]([(https://firedetection.streamlit.app/))
+👀[Demo](https://firedetection.streamlit.app/)
 
+📅[Dataset](https://www.kaggle.com/datasets/antrosafin/fire-dataset-in-yolo-format)
 
-📅Dataset
 
 Download the trained custom weights and change the weights in the weights folder in my repository.
 
