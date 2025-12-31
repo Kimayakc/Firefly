@@ -31,7 +31,8 @@ To train your custom weights go to YoloV5 repository.
 
 🚀[YoloV5](https://github.com/ultralytics/yolov5)
 
-👀Demo
+👀[Demo]([(https://firedetection.streamlit.app/))
+
 
 📅Dataset
 
